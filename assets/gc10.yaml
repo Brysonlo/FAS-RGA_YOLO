@@ -1,0 +1,15 @@
+path: D:/LUOYUZHE/newgc # 注意修改自己NEU-DET数据集的路径
+train: train/images  # train images
+val: val/images  # val images
+test: test/images   # test images
+
+
+# number of classes
+nc: 10
+
+# class names
+names:
+ [chongkong,hanfeng,yueyawan,shuiban,youban,siban,yiwu,yahen,zhehen,yaozhe]
+
+
+

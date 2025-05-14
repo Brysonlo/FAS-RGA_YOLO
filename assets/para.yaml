@@ -1,0 +1,15 @@
+path: D:/LUOYUZHE/NEU-DET/NEU-DET # 注意修改自己NEU-DET数据集的路径
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+
+# number of classes
+nc: 6
+
+# class names
+names:
+ [crazing, inclusion, patches, pitted_surface, rolled-in_scale, scratches]
+
+
+
