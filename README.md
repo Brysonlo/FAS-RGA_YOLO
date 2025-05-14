@@ -58,6 +58,7 @@ test: test/images   # test images
 ```
 
 **Train&Valid**
+This library contains the YAML files of our designed FAS-YOLO and RGA-YOLO models, which users can call for training on their own models.
 1. Train on train.py
 ```
 model = YOLO("Your model location") 
